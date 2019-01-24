@@ -132,8 +132,8 @@ $('.deck ,.card').on('click','.card',function(event)
         second=0;
         minute=0;
         hour=0;
-        clearInterval(interval);
         Timer();
+        clearInterval(interval);
         var cardsShuffle=shuffle(list);
         $(".card i").each(function(index){
         // console.log(cardsShuffle[index]);
