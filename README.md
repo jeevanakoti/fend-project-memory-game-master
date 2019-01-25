@@ -3,6 +3,7 @@ fend project memory game is the matching game in which it has cards that are shu
 ## contents
 * Running the game
 * Instructions
+* Dependancies
 
 # Running the game
 * Visit https://github.com/jeevanakoti/fend-project-memory-game-master/ OR open "index.html" in browser (after cloning) OR Download the Arcade-game Zip folder and unzip it 
@@ -25,3 +26,9 @@ fend project memory game is the matching game in which it has cards that are shu
 #### Screenshot
 
 ![Screenshot](https://github.com/jeevanakoti/fend-project-memory-game-master/blob/master/sample1.JPG)
+
+# Dependencies
+
+* we use https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css and https://fonts.googleapis.com/css?family=Coda to import the stylesheets.
+* we used jquery in coding the logic so js/jquery-3.3.1.min.js is downloaded to have offline access.
+* To get the sweetalert the https://unpkg.com/sweetalert/dist/sweetalert.min.js and all these dependencies help to have a certain code to work
